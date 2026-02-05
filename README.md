@@ -2,6 +2,10 @@
 
 A comprehensive book inventory management application built with modern web technologies.
 
+## Live Demo
+
+https://book-inventory-react-omega.vercel.app/
+
 ## Getting Started
 
 First, install the dependencies:
@@ -60,4 +64,7 @@ To add new components, place them in the `src/components` directory. For UI comp
 
 ## Deployment
 
-This application can be deployed to any static hosting service. The Vite build process will generate optimized assets in the `dist` directory.
+The application can be deployed to platforms like Vercel, Netlify, or any static hosting service.
+
+Production build output is generated inside:
+dist/
