@@ -38,8 +38,6 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 - **State Management**: React Hooks
 - **API Client**: TanStack Query
 
-## Development
-
 ### Available Scripts
 
 In the project directory, you can run:
